@@ -1,5 +1,5 @@
 This web-application based on the Spring Framework was created gradually during the Java marathon. 
-During the training I got acquainted with Spring Data, Spring MVC, Spring Security, Junit, Mockito, 
+In the time of the training I got acquainted with Spring Data, Spring MVC, Spring Security, Junit, Mockito, 
 and also understood the specifics of teamwork on an IT product with different people.
 
 The work was divided into 18 sprints during which we consistently created this REST web application:
